@@ -38,7 +38,7 @@ class Compare
 
         if (preFirF == preSecF)
         {
-            Console.WriteLine("({0} ; {1}) equal = True \n\n", preFirF, preSecF);
+            Console.WriteLine("({0} ; {1}) equal = True \n\n", firF, secF);
         }
         else
         {
@@ -55,11 +55,11 @@ class Compare
 
         if (preFirD == preSecD)
         {
-            Console.WriteLine("({0} ; {1}) equal = True \n\n", preFirD, preSecD);
+            Console.WriteLine("({0} ; {1}) equal = True \n\n", firD, secD);
         }
         else
         {
-            Console.WriteLine("({0} ; {1}) equal = False \n\n", preFirD, preSecD);
+            Console.WriteLine("({0} ; {1}) equal = False \n\n", firD, secD);
         }
     }
 }

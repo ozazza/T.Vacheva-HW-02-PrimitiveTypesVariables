@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Windows Desktop
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Compare", "03. Compare\03. Compare.csproj", "{BB2061A9-2499-4F76-8773-02EB8756ED96}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Compare", "03. Compare\03.Compare.csproj", "{BB2061A9-2499-4F76-8773-02EB8756ED96}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DeclareVariables", "01.DeclareVariables\01.DeclareVariables.csproj", "{017F5935-9EEF-44E6-B16D-22AAB9B5B2A6}"
 EndProject
