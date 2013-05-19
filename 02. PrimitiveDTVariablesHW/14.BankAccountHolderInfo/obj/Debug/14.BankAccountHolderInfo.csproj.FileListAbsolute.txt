@@ -1,0 +1,5 @@
+C:\Me\TELERIK ACADEMY\Course3 - C# (sharp)\Homeworks\T.Vacheva HW 02 PrimitiveTypesVariables\02. PrimitiveDTVariablesHW\14.BankAccountHolderInfo\bin\Debug\14.BankAccountHolderInfo.exe.config
+C:\Me\TELERIK ACADEMY\Course3 - C# (sharp)\Homeworks\T.Vacheva HW 02 PrimitiveTypesVariables\02. PrimitiveDTVariablesHW\14.BankAccountHolderInfo\bin\Debug\14.BankAccountHolderInfo.exe
+C:\Me\TELERIK ACADEMY\Course3 - C# (sharp)\Homeworks\T.Vacheva HW 02 PrimitiveTypesVariables\02. PrimitiveDTVariablesHW\14.BankAccountHolderInfo\bin\Debug\14.BankAccountHolderInfo.pdb
+C:\Me\TELERIK ACADEMY\Course3 - C# (sharp)\Homeworks\T.Vacheva HW 02 PrimitiveTypesVariables\02. PrimitiveDTVariablesHW\14.BankAccountHolderInfo\obj\Debug\14.BankAccountHolderInfo.exe
+C:\Me\TELERIK ACADEMY\Course3 - C# (sharp)\Homeworks\T.Vacheva HW 02 PrimitiveTypesVariables\02. PrimitiveDTVariablesHW\14.BankAccountHolderInfo\obj\Debug\14.BankAccountHolderInfo.pdb

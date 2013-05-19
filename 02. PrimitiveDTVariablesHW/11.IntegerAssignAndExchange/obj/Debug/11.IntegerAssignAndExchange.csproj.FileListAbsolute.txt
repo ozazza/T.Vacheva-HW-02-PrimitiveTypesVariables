@@ -1,0 +1,5 @@
+C:\Me\TELERIK ACADEMY\Course3 - C# (sharp)\Homeworks\T.Vacheva HW 02 PrimitiveTypesVariables\02. PrimitiveDTVariablesHW\11.IntegerAssignAndExchange\bin\Debug\11.IntegerAssignAndExchange.exe.config
+C:\Me\TELERIK ACADEMY\Course3 - C# (sharp)\Homeworks\T.Vacheva HW 02 PrimitiveTypesVariables\02. PrimitiveDTVariablesHW\11.IntegerAssignAndExchange\bin\Debug\11.IntegerAssignAndExchange.exe
+C:\Me\TELERIK ACADEMY\Course3 - C# (sharp)\Homeworks\T.Vacheva HW 02 PrimitiveTypesVariables\02. PrimitiveDTVariablesHW\11.IntegerAssignAndExchange\bin\Debug\11.IntegerAssignAndExchange.pdb
+C:\Me\TELERIK ACADEMY\Course3 - C# (sharp)\Homeworks\T.Vacheva HW 02 PrimitiveTypesVariables\02. PrimitiveDTVariablesHW\11.IntegerAssignAndExchange\obj\Debug\11.IntegerAssignAndExchange.exe
+C:\Me\TELERIK ACADEMY\Course3 - C# (sharp)\Homeworks\T.Vacheva HW 02 PrimitiveTypesVariables\02. PrimitiveDTVariablesHW\11.IntegerAssignAndExchange\obj\Debug\11.IntegerAssignAndExchange.pdb

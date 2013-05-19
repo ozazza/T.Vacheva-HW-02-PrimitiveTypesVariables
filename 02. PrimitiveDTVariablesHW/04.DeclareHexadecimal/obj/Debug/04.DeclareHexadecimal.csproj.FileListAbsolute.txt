@@ -1,0 +1,6 @@
+C:\Me\TELERIK ACADEMY\Course3 - C# (sharp)\Homeworks\T.Vacheva HW 02 PrimitiveTypesVariables\02. PrimitiveDTVariablesHW\04.DeclareHexadecimal\bin\Debug\04.DeclareHexadecimal.exe.config
+C:\Me\TELERIK ACADEMY\Course3 - C# (sharp)\Homeworks\T.Vacheva HW 02 PrimitiveTypesVariables\02. PrimitiveDTVariablesHW\04.DeclareHexadecimal\bin\Debug\04.DeclareHexadecimal.exe
+C:\Me\TELERIK ACADEMY\Course3 - C# (sharp)\Homeworks\T.Vacheva HW 02 PrimitiveTypesVariables\02. PrimitiveDTVariablesHW\04.DeclareHexadecimal\bin\Debug\04.DeclareHexadecimal.pdb
+C:\Me\TELERIK ACADEMY\Course3 - C# (sharp)\Homeworks\T.Vacheva HW 02 PrimitiveTypesVariables\02. PrimitiveDTVariablesHW\04.DeclareHexadecimal\obj\Debug\04.DeclareHexadecimal.csprojResolveAssemblyReference.cache
+C:\Me\TELERIK ACADEMY\Course3 - C# (sharp)\Homeworks\T.Vacheva HW 02 PrimitiveTypesVariables\02. PrimitiveDTVariablesHW\04.DeclareHexadecimal\obj\Debug\04.DeclareHexadecimal.exe
+C:\Me\TELERIK ACADEMY\Course3 - C# (sharp)\Homeworks\T.Vacheva HW 02 PrimitiveTypesVariables\02. PrimitiveDTVariablesHW\04.DeclareHexadecimal\obj\Debug\04.DeclareHexadecimal.pdb

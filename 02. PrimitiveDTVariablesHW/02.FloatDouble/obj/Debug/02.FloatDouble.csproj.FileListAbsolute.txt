@@ -1,0 +1,5 @@
+C:\Me\TELERIK ACADEMY\Course3 - C# (sharp)\Homeworks\T.Vacheva HW 02 PrimitiveTypesVariables\02. PrimitiveDTVariablesHW\02.FloatDouble\bin\Debug\02.FloatDouble.exe.config
+C:\Me\TELERIK ACADEMY\Course3 - C# (sharp)\Homeworks\T.Vacheva HW 02 PrimitiveTypesVariables\02. PrimitiveDTVariablesHW\02.FloatDouble\bin\Debug\02.FloatDouble.exe
+C:\Me\TELERIK ACADEMY\Course3 - C# (sharp)\Homeworks\T.Vacheva HW 02 PrimitiveTypesVariables\02. PrimitiveDTVariablesHW\02.FloatDouble\bin\Debug\02.FloatDouble.pdb
+C:\Me\TELERIK ACADEMY\Course3 - C# (sharp)\Homeworks\T.Vacheva HW 02 PrimitiveTypesVariables\02. PrimitiveDTVariablesHW\02.FloatDouble\obj\Debug\02.FloatDouble.exe
+C:\Me\TELERIK ACADEMY\Course3 - C# (sharp)\Homeworks\T.Vacheva HW 02 PrimitiveTypesVariables\02. PrimitiveDTVariablesHW\02.FloatDouble\obj\Debug\02.FloatDouble.pdb

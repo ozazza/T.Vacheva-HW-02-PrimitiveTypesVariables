@@ -1,0 +1,6 @@
+C:\Me\TELERIK ACADEMY\Course3 - C# (sharp)\Homeworks\T.Vacheva HW 02 PrimitiveTypesVariables\02. PrimitiveDTVariablesHW\12.NullableIntAndDouble\bin\Debug\12.NullableIntAndDouble.exe.config
+C:\Me\TELERIK ACADEMY\Course3 - C# (sharp)\Homeworks\T.Vacheva HW 02 PrimitiveTypesVariables\02. PrimitiveDTVariablesHW\12.NullableIntAndDouble\bin\Debug\12.NullableIntAndDouble.exe
+C:\Me\TELERIK ACADEMY\Course3 - C# (sharp)\Homeworks\T.Vacheva HW 02 PrimitiveTypesVariables\02. PrimitiveDTVariablesHW\12.NullableIntAndDouble\bin\Debug\12.NullableIntAndDouble.pdb
+C:\Me\TELERIK ACADEMY\Course3 - C# (sharp)\Homeworks\T.Vacheva HW 02 PrimitiveTypesVariables\02. PrimitiveDTVariablesHW\12.NullableIntAndDouble\obj\Debug\12.NullableIntAndDouble.csprojResolveAssemblyReference.cache
+C:\Me\TELERIK ACADEMY\Course3 - C# (sharp)\Homeworks\T.Vacheva HW 02 PrimitiveTypesVariables\02. PrimitiveDTVariablesHW\12.NullableIntAndDouble\obj\Debug\12.NullableIntAndDouble.exe
+C:\Me\TELERIK ACADEMY\Course3 - C# (sharp)\Homeworks\T.Vacheva HW 02 PrimitiveTypesVariables\02. PrimitiveDTVariablesHW\12.NullableIntAndDouble\obj\Debug\12.NullableIntAndDouble.pdb

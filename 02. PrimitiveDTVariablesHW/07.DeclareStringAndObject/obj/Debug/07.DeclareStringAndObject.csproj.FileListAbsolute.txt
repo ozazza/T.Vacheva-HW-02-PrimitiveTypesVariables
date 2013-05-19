@@ -1,0 +1,6 @@
+C:\Me\TELERIK ACADEMY\Course3 - C# (sharp)\Homeworks\T.Vacheva HW 02 PrimitiveTypesVariables\02. PrimitiveDTVariablesHW\07.DeclareStringAndObject\bin\Debug\07.DeclareStringAndObject.exe.config
+C:\Me\TELERIK ACADEMY\Course3 - C# (sharp)\Homeworks\T.Vacheva HW 02 PrimitiveTypesVariables\02. PrimitiveDTVariablesHW\07.DeclareStringAndObject\bin\Debug\07.DeclareStringAndObject.exe
+C:\Me\TELERIK ACADEMY\Course3 - C# (sharp)\Homeworks\T.Vacheva HW 02 PrimitiveTypesVariables\02. PrimitiveDTVariablesHW\07.DeclareStringAndObject\bin\Debug\07.DeclareStringAndObject.pdb
+C:\Me\TELERIK ACADEMY\Course3 - C# (sharp)\Homeworks\T.Vacheva HW 02 PrimitiveTypesVariables\02. PrimitiveDTVariablesHW\07.DeclareStringAndObject\obj\Debug\07.DeclareStringAndObject.csprojResolveAssemblyReference.cache
+C:\Me\TELERIK ACADEMY\Course3 - C# (sharp)\Homeworks\T.Vacheva HW 02 PrimitiveTypesVariables\02. PrimitiveDTVariablesHW\07.DeclareStringAndObject\obj\Debug\07.DeclareStringAndObject.exe
+C:\Me\TELERIK ACADEMY\Course3 - C# (sharp)\Homeworks\T.Vacheva HW 02 PrimitiveTypesVariables\02. PrimitiveDTVariablesHW\07.DeclareStringAndObject\obj\Debug\07.DeclareStringAndObject.pdb
